@@ -3,8 +3,8 @@ Contributors: mwedepohl
 Donate link: https://paypal.me/martinwedepohl
 Tags: time, span, years, days
 Requires at least: 4.9
-Tested up to: 5.4.1
-Stable tag: 1.0.0
+Tested up to: 5.4.2
+Stable tag: 1.0.1
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
@@ -53,7 +53,7 @@ I have been on this journey for `[we_time_since y=2020 m=5 d=5 type="day"]` days
 3. Click the **Activate** link
 4. That's all (no further configuration or settings required)
 
-or 
+or
 
 1. Navigate to the plugins admin page
 2. Click the **Add New** button
@@ -88,6 +88,10 @@ Yes, there is nothing WordPress specific
 3. I will endevor to resolve issues as soon as time permits
 
 == Changelog ==
+
+= 1.0.1 =
+June 10, 2020
+* Tested with WordPress Version 5.4.2
 
 = 1.0.0 =
 May 15, 2020
