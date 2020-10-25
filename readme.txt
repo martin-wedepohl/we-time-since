@@ -3,8 +3,8 @@ Contributors: mwedepohl
 Donate link: https://paypal.me/martinwedepohl
 Tags: time, span, years, days
 Requires at least: 4.9
-Tested up to: 5.4.2
-Stable tag: 1.0.1
+Tested up to: 5.5.1
+Stable tag: 1.0.2
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
@@ -88,6 +88,10 @@ Yes, there is nothing WordPress specific
 3. I will endevor to resolve issues as soon as time permits
 
 == Changelog ==
+
+= 1.0.2 =
+October 24, 2020
+* Tested with WordPress Version 5.5.1
 
 = 1.0.1 =
 June 10, 2020
