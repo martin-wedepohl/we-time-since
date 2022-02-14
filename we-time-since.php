@@ -11,7 +11,7 @@
  * Plugin Name:       WE Time Since
  * Plugin URI:        https://github.com/martin-wedepohl/we-time-since
  * Description:       Display the time (years/days) since a certain date.
- * Version:           1.0.3
+ * Version:           1.0.4
  * Requires at least: 4.9
  * Requires PHP:      5.6
  * Author:            Martin Wedepohl
